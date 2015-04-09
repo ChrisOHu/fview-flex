@@ -39,6 +39,7 @@ Package.onUse(function(api) {
 
     'views/RefreshLoader',
     'views/AutosizeTextareaSurface',
+    'views/AnimatedIcon',
 
     'FlexScrollView'
   ];
