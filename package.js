@@ -45,6 +45,7 @@ Package.onUse(function(api) {
     'famous-refresh-loader/RefreshLoader',
     'famous-autosizetextarea/AutosizeTextareaSurface',
 
+    'famous-flex/src/AnimationController',
     'famous-flex/src/FlexScrollView'
   ];
 
