@@ -42,9 +42,9 @@ Package.onUse(function(api) {
     'famous-flex/src/widgets/DatePicker',
     'famous-flex/src/widgets/TabBar',
 
-    'famous-flex/src/views/RefreshLoader'
-    'famous-flex/src/views/AutosizeTextareaSurface'
-    'famous-flex/src/views/AnimatedIcon'
+    'famous-flex/src/views/RefreshLoader',
+    'famous-flex/src/views/AutosizeTextareaSurface',
+    'famous-flex/src/views/AnimatedIcon',
 
     'famous-flex/src/AnimationController',
     'famous-flex/src/FlexScrollView'
