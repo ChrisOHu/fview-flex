@@ -1,10 +1,4 @@
 [submodule "lib/famous-flex"]
 	path = lib/famous-flex
-	url = https://github.com/IjzerenHein/famous-flex
-[submodule "lib/famous-refresh-loader"]
-	path = lib/famous-refresh-loader
-	url = https://github.com/IjzerenHein/famous-refresh-loader
-[submodule "lib/famous-autosizetextarea"]
-	path = lib/famous-autosizetextarea
-	url = https://github.com/IjzerenHein/famous-autosizetextarea
+	url = git@github.com:ShawnOceanHu/famous-flex.git
 
